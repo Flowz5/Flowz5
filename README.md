@@ -26,8 +26,11 @@
 
 ### 🔝 Mes Projets Phares
 
-[![Projet 1](https://github-readme-stats.vercel.app/api/pin/?username=Flowz5&repo=NOM_DU_REPO_1&theme=dark)](https://github.com/Flowz5/NOM_DU_REPO_1)
-[![Projet 2](https://github-readme-stats.vercel.app/api/pin/?username=Flowz5&repo=NOM_DU_REPO_2&theme=dark)](https://github.com/Flowz5/NOM_DU_REPO_2)
+[![Projet 1](https://github-readme-stats.vercel.app/api/pin/?username=Flowz5&repo=VeilleTechScraper&theme=dark)](https://github.com/Flowz5/VeilleTechScraper)
+[![Projet 2](https://github-readme-stats.vercel.app/api/pin/?username=Flowz5&repo=portfolio-leDupont&theme=dark)](https://github.com/Flowz5/portfolio-leDupont)
+[![Projet 1](https://github-readme-stats.vercel.app/api/pin/?username=Flowz5&repo=ImgRec&theme=dark)](https://github.com/Flowz5/ImgRec)
+[![Projet 1](https://github-readme-stats.vercel.app/api/pin/?username=Flowz5&repo=Hand-Tracking-AI&theme=dark)](https://github.com/Flowz5/Hand-Tracking-AI)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Flowz5&icon=0&color=0)](https://visitcount.itsvg.in)
