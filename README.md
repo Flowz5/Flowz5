@@ -24,8 +24,10 @@
 <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Flowz5&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Flowz5&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 🔝 Mes Projets Phares
+
+[![Projet 1](https://github-readme-stats.vercel.app/api/pin/?username=Flowz5&repo=NOM_DU_REPO_1&theme=dark)](https://github.com/Flowz5/NOM_DU_REPO_1)
+[![Projet 2](https://github-readme-stats.vercel.app/api/pin/?username=Flowz5&repo=NOM_DU_REPO_2&theme=dark)](https://github.com/Flowz5/NOM_DU_REPO_2)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Flowz5&icon=0&color=0)](https://visitcount.itsvg.in)
