@@ -1,8 +1,12 @@
 # 💫 About Me:
-🔭 Je développe activement des projets pour mon portfolio et mes examens E5/E6 du BTS SIO (comme une application d'automatisation en Python). Je suis à la recherche d'un stage en développement.\n
-🤝 Je suis à la recherche d'une alternance ou d'un stage de fin d'études.\n
-🌱 Je suis en train d'apprendre de nouvelles technos en BTS SIO (sisr/slam).\n
-💬 N'hésitez pas à me poser des questions, je suis heureux de partager mes connaissances.\n
+🔭 Je développe activement des projets pour mon portfolio et mes examens E5/E6 du BTS SIO (comme une application d'automatisation en Python). Je suis à la recherche d'un stage en développement.
+
+🤝 Je suis à la recherche d'une alternance ou d'un stage de fin d'études.
+
+🌱 Je suis en train d'apprendre de nouvelles technos en BTS SIO (sisr/slam).
+
+💬 N'hésitez pas à me poser des questions, je suis heureux de partager mes connaissances.
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/leo_paulevault) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/léo-dupont-pro) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:le.dupont.pro@gmail.com)
